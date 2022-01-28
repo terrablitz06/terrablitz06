@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#Heading 1
-About Myself
 
 <!--
 **terrablitz06/terrablitz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
